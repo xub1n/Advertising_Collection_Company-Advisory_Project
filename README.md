@@ -7,15 +7,10 @@
 ### 목차
 ***
 * [📄 제안개요](#-제안개요)
-  * [Why](#why)
-  * [Insight](#insight)
-* [💧 How](#-how)
-  * [Data & Targeting](#data--targeting)
-  * [Object Detection](#object-detection)
-  * [Segmentation](#segmentation)
-  * [Prediction](#prediction)
-* [💧 POC](#-poc)
-* [💧 Benefit](#-benefit)
+* [📄 기술분야 제안](#-기술분야-제안)
+  * [AI + OCR 기술제안](#ai-ocr-기술제안)
+  * [배너광고 자동생성 기술제안](#배너광고-자동생성-기술제안)
+  * [AI기반 미디어 믹스 기술제안](#ai기반-미디어-믹스-기술제안)
 
 ### 💧 Insight
 
