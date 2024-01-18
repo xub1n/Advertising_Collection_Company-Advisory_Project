@@ -2,7 +2,7 @@
 
 #### 📄 광고 수집기업의 회사 이미지를 제고하고, AI 서비스를 제안드린 자문 프로젝트입니다.
 
-<img width="905" alt="스크린샷 2023-04-24 오후 3 10 51" src="https://user-images.githubusercontent.com/106679267/233913433-2993eded-12e8-4e28-bbd4-6330257de488.png"><br></br>
+<<img width="1267" alt="스크린샷 2024-01-15 오후 8 58 42" src="https://github.com/xub1n/flood_detection_service-project/assets/106679267/8a533a37-e73e-41da-bdfc-ae5463604b30">><br></br>
 
 ### 목차
 ***
